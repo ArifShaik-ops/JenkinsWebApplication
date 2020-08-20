@@ -8,6 +8,7 @@ public class JenkinsSpringBootSampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsSpringBootSampleApplication.class, args);
+		Sysyem.out.println("Web Application");
 	}
 
 }
